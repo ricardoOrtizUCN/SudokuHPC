@@ -1,0 +1,11 @@
+cl/ucn/disc/hpc/sudoku/SudokuBoard.java
+ cl.ucn.disc.hpc.sudoku.SudokuBoard
+cl/ucn/disc/hpc/sudoku/SudokuAnalyser.java
+ cl.ucn.disc.hpc.sudoku.SudokuAnalyser
+cl/ucn/disc/hpc/sudoku/SequentialSudoku.java
+ cl.ucn.disc.hpc.sudoku.SequentialSudoku
+cl/ucn/disc/hpc/sudoku/Sudoku.java
+ cl.ucn.disc.hpc.sudoku.Sudoku
+cl/ucn/disc/hpc/sudoku/ParallelSudoku.java
+ cl.ucn.disc.hpc.sudoku.ParallelSudoku
+ cl.ucn.disc.hpc.sudoku.ParallelSudoku$RecursiveSolver
